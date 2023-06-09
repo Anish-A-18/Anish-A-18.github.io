@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Mone. Anish. awesomeness. Etc.
+subtitle: <a href='#'>Affiliations</a>. Mone. Anish. moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Anish.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
