@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Mone. Anish. moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Mone. Anish. Anish is awesome. Etc.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi, my name is Anish Anand. I am a highschooler and I have dyslexia. Growing up with dyslexia has always been a challenge, but I was able to find ways to work through my challenges with reading and writing, from the help of family and teachers.
 
-These challenges lead me to start the [Dyslexia Speaks](https://dyslexiaspeaks.org/)
+These challenges lead me to start the nonprofit: [Dyslexia Speaks](https://dyslexiaspeaks.org/)
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
