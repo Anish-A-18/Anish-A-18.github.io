@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about ss
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Mone. Anish. Anish is awesome. Etc.
 
