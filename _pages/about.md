@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, my name is Anish Anand. I am a highschooler and I have dyslexia. Growing up with dyslexia has always been a challenge, but I was able to find ways to work through my challenges with reading and writing, from the help of family and teachers.
+Anish is so awesome Hi, my name is Anish Anand. I am a highschooler and I have dyslexia. Growing up with dyslexia has always been a challenge, but I was able to find ways to work through my challenges with reading and writing, from the help of family and teachers.
 
 These challenges lead me to start the nonprofit: [Dyslexia Speaks](https://dyslexiaspeaks.org/)
 
