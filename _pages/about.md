@@ -9,16 +9,16 @@ profile:
   image: Anish.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Peninsula High School</p>
+    <p>27118 Silver Spur Rd</p>
+    <p>Rolling Hills Estates, CA 90274</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Anish is so awesome Hi, my name is Anish Anand. I am a highschooler and I have dyslexia. Growing up with dyslexia has always been a challenge, but I was able to find ways to work through my challenges with reading and writing, from the help of family and teachers.
+Hi, my name is Anish Anand. I am a highschooler and I have dyslexia. Growing up with dyslexia has always been a challenge, but I was able to find ways to work through my challenges with reading and writing, from the help of family and teachers.
 
 These challenges lead me to start the nonprofit: [Dyslexia Speaks](https://dyslexiaspeaks.org/)
 

@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Anish Anand
     - name: Date of Birth
-      value: 14th March 1879
+      value: November 18th 2007
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
